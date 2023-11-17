@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 11 23:09:10 2019
 
-@author: Than Than Swe Varma
+@author: Than Than Swe
 """
 
 import numpy as np
