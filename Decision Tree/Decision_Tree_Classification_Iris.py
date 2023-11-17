@@ -2,7 +2,7 @@
 """
 Created on Tue Nov  5 17:06:46 2019
 
-@author: Hemanth Varma
+@author: Than Than Swe
 """
 
 from sklearn.datasets import load_iris
