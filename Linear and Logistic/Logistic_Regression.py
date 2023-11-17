@@ -2,7 +2,7 @@
 """
 Created on Thu Dec 27 21:32:51 2018
 
-@author: Lenovo
+@author: Than Than Swe
 """
 
 # Logistic Regression
