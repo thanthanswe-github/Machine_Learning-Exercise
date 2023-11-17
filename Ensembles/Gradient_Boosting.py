@@ -17,7 +17,7 @@ from sklearn.datasets import load_breast_cancer
 cancer = load_breast_cancer()
 (X_cancer, y_cancer) = load_breast_cancer(return_X_y = True)
 
-
+# Gradient Boosting is an ensemble learning technique that builds a series of weak learners (typically decision trees) and combines them to create a strong learner.
 from sklearn.ensemble import GradientBoostingClassifier
 
 X_train, X_test, y_train, y_test = train_test_split(X_cancer, y_cancer, random_state = 0)
